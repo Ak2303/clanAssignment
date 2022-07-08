@@ -1,4 +1,4 @@
-# clan_assignment
+# Clan Assignment
 
 A new Flutter project.
 
